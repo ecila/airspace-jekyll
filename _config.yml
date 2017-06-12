@@ -18,7 +18,7 @@ title: Ecolistening
 subtitle: "learning to listen to biodiversity"
 url: 'https://ecila.github.io'
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: '/ecolistening'
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/testCricket.jpg"
 
