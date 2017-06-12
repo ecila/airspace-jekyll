@@ -14,24 +14,27 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+title: Ecolistening
+subtitle: "learning to listen to biodiversity"
+url: 'https://ecila.github.io'
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: '/ecolistening'
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/assets/testCricket.jpg"
+
+port: 4001
+
 
 # Build settings
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-38526580-2"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: research
+    desc: "Work from members of the lab"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: news
+    desc: "stuff we are doing"
