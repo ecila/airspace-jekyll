@@ -3,7 +3,7 @@
  * In airspace, it is called style.css
  * However, style.css now holds additional styles for this jekyll port. (Not written by ThemeFisher)
  * The original style.css is now called airspace.css
- * 
+ *
  */
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
@@ -474,7 +474,7 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
-  opacity: 1;
+  opacity: 0.6;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .position-center {
   position: absolute;
@@ -486,7 +486,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li a {
   display: block;
-  color: #fff;
+  color: #ccc;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
   font-size: 22px;
@@ -499,7 +499,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
-  color: #655E7A;
+  color: #5e7a6c;
 }
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
@@ -627,6 +627,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider-contact .block {
   color: #E3E3E4;
+
   margin: 0 auto;
   padding-left: 90px;
 }
